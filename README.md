@@ -65,7 +65,6 @@
           <a href="#book" class="btn">Book JD to Speak</a>
           <a href="#consulting" class="btn outline">Consulting & IP</a>
         </div>
-        <div class="muted" style="margin-top:16px;font-size:14px">“Mobilize Resources. Make Money. Lead What’s Real.”</div>
       </div>
       <div class="card" style="position:relative;overflow:hidden;aspect-ratio:4/5">
         <img src="data:image/jpeg;base64,REPLACE_PORTRAIT" alt="JD Bucklin" style="width:100%;height:100%;object-fit:cover" />
