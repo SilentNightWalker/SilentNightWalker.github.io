@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>ZPZCO | 0.0̅1 — Lead What's Real SHART </title>
+  <title>ZPZCO | 0.0̅1 — Lead What's Real</title>
   <meta name="description" content="ZPZCO provides keynotes, leadership training, IP strategy, and automation system design. Book JD for Tactical Strategies for Mental Fitness and more." />
   <meta property="og:title" content="ZPZCO | 0.0̅1 — Lead What's Real" />
   <meta property="og:description" content="Keynotes on mental fitness & resilience, consulting on IP & systems. Strip it all away. Lead what's real." />
